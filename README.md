@@ -13,3 +13,7 @@ In summary, throughout this project, we have demonstrated the ability to:
 - Code and test
 - Produce user and system documentation
 - Produce reports and project status
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+The download of the documents herein provided does not grant any reproduction rights of any kind.
+The content of this repository is for showcase purposes only.
